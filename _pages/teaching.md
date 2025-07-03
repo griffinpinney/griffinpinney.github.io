@@ -7,7 +7,7 @@ author_profile: true
 
 I've held teaching assistant positions (or equivalent) continuously since 2021, between both the Australian National University and UCLA. I take great joy in teaching, and I like to establish a connection with my students whenever possible. I consider it a great privilege to be part of my students' university experience, and I take this responsibility seriously.
 
- At the end of each academic term, I encourage my students to say hi if they see me on campus, and I usually joke that I owe them $5 if I don't remember their name. It's been over four years, and I still haven't had to pay any of my former students! Chances are that if you had me as a TA, I remember you and I care how you're doing, so feel free to reach out at any time and for any reason. Hearing from or seeing my former students always makes my day.
+ At the end of each academic term, I encourage my students to say hi if they see me on campus, and I usually joke that I owe them $5 if I don't remember their name. It's been over four years, and I still haven't had to pay any of my former students! Chances are that if you had me as a TA, I remember you and care how you're doing, so feel free to reach out at any time for any reason. Hearing from or seeing my former students always makes my day.
 
  Below is a summary of all the classes I've TA'd for and their content.
 
@@ -16,12 +16,12 @@ I've held teaching assistant positions (or equivalent) continuously since 2021, 
 ## UCLA
 
 - ### Introduction to Programming  
-  *Basic principles of programming, using C&plus;&plus;; algorithmic, procedural problem solving; program design and development; basic data types, control structures and functions; functional arrays and pointers; introduction to classes for programmer-defined data types.*
+  *Basic principles of programming, using C++,algorithmic, procedural problem solving; program design and development; basic data types, control structures and functions; functional arrays and pointers; introduction to classes for programmer-defined data types.*
 
   Winter 2024 - Spring 2025
 
 - ### Intermediate Programming  
-  *Abstract data types and their implementation using the C&plus;&plus; class mechanism; dynamic data structures, including linked lists, stacks, queues, trees, and hash tables; applications; object-oriented programming and software reuse; recursion; algorithms for sorting and searching.*
+  *Abstract data types and their implementation using the C++ class mechanism; dynamic data structures, including linked lists, stacks, queues, trees, and hash tables; applications; object-oriented programming and software reuse; recursion; algorithms for sorting and searching.*
 
   Spring 2024
 

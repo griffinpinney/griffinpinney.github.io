@@ -19,7 +19,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
   <ul>
     <li>My thoughts on the previous month’s puzzle</li>
     <li>Difficulty and enjoyment ratings</li>
-    <li>A rough outline of how I approached and solved the puzzle</li>
+    <li>A sometimes rough, sometimes detailed outline of how I approached and solved the puzzle</li>
   </ul>
 
   <div><strong>Logs:</strong></div>
@@ -65,13 +65,13 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 <details>
   <summary><strong>🕵️‍♂️ Lovatts Daily Cryptic Crossword</strong></summary>
   <p>
-    This is an <a href="https://lovattspuzzles.com/online-puzzles-competitions/daily-cryptic-crossword/" target="_blank" rel="noopener noreferrer">online cryptic crossword</a> from Australia. The art of cryptic crossword solving was originally taught to me by my ninth grade teacher and, has stuck with me ever since. My rule is to never seek outside help; if I don't know the meaning of a word, I have to work it out from context.
+    This is an <a href="https://lovattspuzzles.com/online-puzzles-competitions/daily-cryptic-crossword/" target="_blank" rel="noopener noreferrer">online cryptic crossword</a> from Australia. The art of cryptic crossword solving was originally taught to me by my ninth grade teacher, and has stuck with me ever since. My rule is to never seek outside help; if I don't know the meaning of a word, I have to work it out from context.
   </p>
 
   <div><strong>Starting July 2025</strong>, I’ll begin recording:</div>
   <ul>
     <li>My solving stats, including current streak and best time</li>
-    <li>The best clues I encounter, including an explanation of their solution</li>
+    <li>The best clues I encounter, including an explanation of their solutions</li>
   </ul>
 
   <hr>
@@ -91,7 +91,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <summary><strong>Clue:</strong> Where the sea is lamer and the golden undergarment is labrador? (6)</summary>
         <p>
           <strong>Answer:</strong> France<br>
-          <strong>Explanation:</strong> Where else would "the sea" be "la mer" and "the golden undergarment" be "la bra d'or"?
+          <strong>Explanation:</strong> Where else would the sea be "la mer" and the golden undergarment be "la bra d'or"?
         </p>
       </details>
     </li>
@@ -118,7 +118,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <summary><strong>Clue:</strong> Take the wrong way? (5)</summary>
         <p>
           <strong>Answer:</strong> Steal<br>
-          <strong>Explanation:</strong> Nothing fancy here; stealing is quite literally just taking, but in the wrong way.
+          <strong>Explanation:</strong> Nothing fancy here; stealing is quite literally just taking in wrong way.
         </p>
       </details>
     </li>
@@ -169,7 +169,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <summary><strong>Clue:</strong> Add ass to ET's belongings (6)</summary>
         <p>
           <strong>Answer:</strong> Assets<br>
-          <strong>Explanation:</strong> If you literally add "ass" to "ET's", you get "assets", which also means "belongings".
+          <strong>Explanation:</strong> If you add "ass" to "ET's", you get "assets", which also means "belongings".
         </p>
       </details>
     </li>
