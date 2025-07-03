@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,88 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Mathematics**, UCLA, Sep. 2022 – Present  
+  * Expected June 2027  
+  * Advisor: <a href="https://ernestryu.com/" target="_blank" rel="noopener noreferrer">Prof. Ernest Ryu</a>  
+  * Research areas: reinforcement learning, large language models
 
-Work experience
+* **M.A. in Mathematics**, UCLA, Sep. 2022 – Jun. 2024  
+  * GPA: 4.000/4.000  
+  * Masters by coursework completed while working towards doctorate
+
+* **Bachelor of Philosophy (Honours) – Science**, The Australian National University, Feb. 2018 – Nov. 2021  
+  * Major in Mathematics  
+  * GPA: 7.00/7.00  
+  * Completed Honours under the supervision of <a href="https://maths-people.anu.edu.au/~plyung/" target="_blank" rel="noopener noreferrer">Dr. Po-Lam Yung</a>  
+  * Thesis: *Fourier Restriction and Decoupling*  
+  * First Class Honours
+
+Publications and Preprints
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- ### <a href="https://arxiv.org/abs/2409.09811" target="_blank" rel="noopener noreferrer">PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics</a>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  Yuxuan Liu, Jingmin Sun, Xinjie He, <strong>Griffin Pinney</strong>, Zecheng Zhang, and Hayden Schaeffer.  
+  <em>NeurIPS 2024 Foundation Models for Science Workshop,</em> 2024. <a href="https://github.com/felix-lyx/prose" target="_blank" rel="noopener noreferrer">[code]</a>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+- ### <a href="https://arxiv.org/abs/2112.04111" target="_blank" rel="noopener noreferrer">A decoupling proof of the Tomas restriction theorem</a>
+
+  <strong>Griffin Pinney</strong>.  
+  <em>arXiv:2112.04111,</em> 2021.
+
+<!-- Current Projects
+======
+* *Executing algorithms in CoT via hybridized SFT+RL training*  
+  (PhD project; to be completed Oct. 2025)
+
+* *Comparing quantitative trading strategies via rigorous backtesting and paper trading*  
+  (Ongoing personal project; to be completed Aug. 2025) -->
+
+Talks and Presentations
+======
+* **Small Gaps Between Primes**, Nov. 2023  
+  * Participating Analysis Seminar, UCLA, Los Angeles, CA  
+  * Presented James Maynard’s 2013 paper on the twin prime conjecture  
+  * Part of a reading course advised by Prof. Terence Tao
+
+* **A Decoupling Proof of the Tomas Restriction Theorem**, Apr. 2023  
+  * Participating Analysis Seminar, UCLA, Los Angeles, CA  
+  * Presented Honours work on Fourier restriction and decoupling
+
+Selected Awards
+======
+* **Liggett Teaching Award (UCLA)**, Jun. 2024  
+  * Awarded to at most 4 TA's per year
+
+* **Horn-Moez Prize (UCLA)**, Jun. 2023  
+  * For high academic achievements by first-year math graduate students  
+  * Awarded to at most 3 students per cohort
+
+* **Graduate Dean’s Scholar Award (UCLA)**, Sep. 2022  
+  * Supplemental stipend awarded to top applicants
+
+* **Excellence in Tutoring or Demonstrating Award (ANU)**, Jun. 2022  
+  * For excellence in promoting learning at the university
+
+* **Chancellor’s Letter of Commendation (ANU)**, 2018–2021  
+  * For achieving a GPA of 7.00/7.00 over an academic year
+
+<!-- Teaching
+======
+* **Teaching Assistant**, Sep. 2022 – Present  
+  * Department of Mathematics, UCLA  
+  * Courses: MATH 61, MATH 32A, MATH 115A, MATH 132, MATH 31B, COMPTNG 10A/B
+
+* **Workshop Demonstrator (Teaching Assistant)**, Feb. 2021 – Jun. 2022  
+  * Mathematical Sciences Institute, ANU  
+  * Courses: MATH1115, MATH1116, MATH1014, MATH2320, MATH3320 -->
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<!-- * **Human Languages**  
+  * English (native)  
+  * Russian (beginner) -->
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- * **Computing**   -->
+  * Python (pandas, NumPy, PyTorch)  
+  * C++  
+  * LaTeX

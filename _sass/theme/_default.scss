@@ -1,22 +1,22 @@
 /* ==========================================================================
-   DEFAULT THEME
+   SUNSET ORANGE THEME
    ========================================================================== */
 
-/* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : #9ba1a6;
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* Orange-focused sunset palette */
+$gray                       : #cc7a00;   // burnt orange
+$dark-gray                  : mix(#000, $gray, 40%); // dark rust
+$darker-gray                : mix(#000, $gray, 60%); // deep sienna
+$light-gray                 : #f5c390;   // light apricot
+$lighter-gray               : mix(#fff, $gray, 85%); // pale gold haze
 
-/* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+/* Accent colors */
+$danger-color               : #e4572e;  // sunset red-orange
+$info-color                 : #f08a24;  // golden amber
+$notice-color               : #f7aa54;  // mango orange
+$success-color              : #f3c969;  // goldenrod
+$warning-color              : #ffb347;  // soft orange
 
-/* Other basic settings for the template */
+/* Layout constants (unchanged) */
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $global-transition          : all 0.2s ease-in-out;
@@ -26,22 +26,22 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Default light theme for the site */
+/* Orange sunset CSS variables */
 :root {
-    --global-base-color                 : #{$gray};
-    --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f2f3f3;
-    --global-border-color               : #{$lighter-gray};
-    --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
-    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
-    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
-    --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
-    --global-text-color                 : #{$dark-gray};
-    --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$lighter-gray};
+  --global-base-color                 : #{$gray};
+  --global-bg-color                   : #fffaf3; // warm off-white
+  --global-footer-bg-color            : #fef0dc; // very light orange
+  --global-border-color               : #{$lighter-gray};
+  --global-dark-border-color          : #d69a5d;
+  --global-code-background-color      : #fff4e1; // paper tan
+  --global-code-text-color            : #{$darker-gray};
+  --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+  --global-link-color                 : #e57200;  // pumpkin
+  --global-link-color-hover           : #c05a00;  // roasted orange
+  --global-link-color-visited         : #aa4e00;
+  --global-masthead-link-color        : #{$dark-gray};
+  --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);
+  --global-text-color                 : #4a2c1d; // sienna brown
+  --global-text-color-light           : #dba86a;
+  --global-thead-color                : #fff1dc; // creamy orange
 }
