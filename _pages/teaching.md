@@ -73,7 +73,7 @@ I've held teaching assistant positions (or equivalent) continuously since 2021, 
 
 - ### Advanced Mathematics and Applications 2
   - *Calculus/Analysis - short introduction to metric spaces in the context of the calculus of functions of several variables, generalisation of real analysis theory to multivariable functions including limits and continuity, double integrals, Fubini's theorem, integrability of continuous functions, partial derivatives, gradients and directional derivatives, differentiation of multivariable functions, extreme values, vector functions, curves and parametrisations, infinite series, convergence tests, power series, Taylor series.*
-  - *subspaces, span, linear independence, bases and dimension, linear maps, duality, eigenvalues and eigenvectors, inner product spaces, Gram-Schmidt orthogonalisation, operators on inner product spaces, the spectral theorem in finite dimensions, singular value decomposition.*
+  - *Linear Algebra - subspaces, span, linear independence, bases and dimension, linear maps, duality, eigenvalues and eigenvectors, inner product spaces, Gram-Schmidt orthogonalisation, operators on inner product spaces, the spectral theorem in finite dimensions, singular value decomposition.*
 
   Semester 2, 2021
 

@@ -42,7 +42,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 <details>
   <summary><strong>🧮 IBM Ponder This</strong></summary>
   <p>
-    I began solving the IBM "Ponder This" monthly puzzles in August 2024, but I solve them less religiously than the Jane Street puzzles. Each of these puzzles also comes with a bonus problem, which is usually a slightly modified or scaled up version of the original. Strangely, the bonus problem seems to range in difficulty from significantly harder to much easier than the original problem, and I don't solve it every time I solve the base puzzle.
+    I began solving the IBM "Ponder This" monthly puzzles in August 2024, but I solve them less religiously than the Jane Street puzzles. Each of these puzzles also comes with a bonus problem, which is usually a slightly modified or scaled up version of the original. Strangely, the bonus problem seems to range in difficulty from significantly harder than to much easier than the original problem, and I don't solve it every time I solve the base puzzle.
   </p>
 
   <div><strong>Starting July 2025</strong>, I’ll begin recording:</div>
@@ -118,7 +118,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <summary><strong>Clue:</strong> Take the wrong way? (5)</summary>
         <p>
           <strong>Answer:</strong> Steal<br>
-          <strong>Explanation:</strong> Nothing fancy here; stealing is quite literally just taking in wrong way.
+          <strong>Explanation:</strong> Nothing fancy here; stealing is quite literally just taking in the wrong way.
         </p>
       </details>
     </li>
