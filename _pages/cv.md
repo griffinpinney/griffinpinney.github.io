@@ -17,7 +17,7 @@ Education
   * Research areas: reinforcement learning, large language models
 
 * **M.A. in Mathematics**, UCLA, Sep. 2022 – Jun. 2024  
-  * GPA: 4.000/4.000  
+  * GPA: 4.00/4.00
   * Masters by coursework completed while working towards doctorate
 
 * **Bachelor of Philosophy (Honours) – Science**, The Australian National University, Feb. 2018 – Nov. 2021  
