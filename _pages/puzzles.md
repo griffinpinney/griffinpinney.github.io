@@ -151,9 +151,9 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
     </li>
   </ul>
   
-  <hr>
+  <!-- <hr> -->
 
-  <div><strong>Honourable mentions:</strong> these clues aren't particularly clever, but I'm recording them here since they made me laugh.</div>
+  <!-- <div><strong>Honourable mentions:</strong> these clues aren't particularly clever, but I'm recording them here since they made me laugh.</div>
   <ul>
     <li>
       <details>
@@ -200,7 +200,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         </p>
       </details>
     </li>
-  </ul>
+  </ul> -->
 </details>
 
 ---
