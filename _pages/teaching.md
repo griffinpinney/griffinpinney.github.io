@@ -16,7 +16,7 @@ I've held teaching assistant positions (or equivalent) continuously since 2021, 
 ## UCLA
 
 - ### Introduction to Programming  
-  *Basic principles of programming, using C++,algorithmic, procedural problem solving; program design and development; basic data types, control structures and functions; functional arrays and pointers; introduction to classes for programmer-defined data types.*
+  *Basic principles of programming, using C++; algorithmic, procedural problem solving; program design and development; basic data types, control structures and functions; functional arrays and pointers; introduction to classes for programmer-defined data types.*
 
   Winter 2024 - Spring 2025
 
