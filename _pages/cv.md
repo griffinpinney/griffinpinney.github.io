@@ -50,13 +50,24 @@ Publications and Preprints
 Talks and Presentations
 ======
 * **Small Gaps Between Primes**, Nov. 2023  
-  * Participating Analysis Seminar, UCLA, Los Angeles, CA  
+  * UCLA Participating Analysis Seminar
   * Presented James Maynard’s 2013 paper on the twin prime conjecture  
   * Part of a reading course advised by Prof. Terence Tao
 
 * **A Decoupling Proof of the Tomas Restriction Theorem**, Apr. 2023  
-  * Participating Analysis Seminar, UCLA, Los Angeles, CA  
+  * UCLA Participating Analysis Seminar
   * Presented Honours work on Fourier restriction and decoupling
+
+Other Projects
+======
+* **Comparing trading strategies via rigorous backtesting**, Jul. 2025  
+  * Compared basic trading strategies such as buy and hold, turn-of-the-month, SMA crossover, and bollinger bands via the Backtrader backtesting framework
+  * Observed market regimes under which certain strategies are advantageous  
+  * Gained experience handling and manipulating financial data
+
+* **Evaluating the utility of ARIMA models for forecasting the market**, Jun. 2025  
+  * Empirically demonstrated the impossibility of forecasting the market via simple ARIMA models
+  * Observed improvement in performance by using historical returns data, as a consequence of the improved stationarity of returns compared to prices
 
 Selected Awards
 ======
