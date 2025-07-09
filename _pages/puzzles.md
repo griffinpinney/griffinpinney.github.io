@@ -133,10 +133,37 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
     </li>
     <li>
       <details>
+        <summary><strong>Clue:</strong> Anticipation over how to increase the height of a building (5,2)</summary>
+        <p>
+          <strong>Answer:</strong> Build up<br>
+          <strong>Explanation:</strong> To "build up" describes how to increase the height of a building, and also means "anticipation".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
         <summary><strong>Clue:</strong> Type of bars frequented by gymnasts (10)</summary>
         <p>
           <strong>Answer:</strong> Horizontal<br>
-          <strong>Explanation:</strong> Just take it literally! (Horizontal bars is a gymnastics event.)
+          <strong>Explanation:</strong> Just take it literally! "Horizontal bars" is the name of some gymnastics equipment, so these types of bars would be frequented by gymnasts.
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> Looks like a lobster is related to a spider (8)</summary>
+        <p>
+          <strong>Answer:</strong> Scorpion<br>
+          <strong>Explanation:</strong> Just take it literally! A scorpion is something that looks like a lobster but is related to a spider.
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> He tidies up the bed and leaves (8)</summary>
+        <p>
+          <strong>Answer:</strong> Gardener<br>
+          <strong>Explanation:</strong> Just take it literally! A gardener is someone who tidies up the (garden) bed and the (fallen) leaves.
         </p>
       </details>
     </li>
