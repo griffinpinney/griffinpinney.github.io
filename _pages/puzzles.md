@@ -163,7 +163,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <summary><strong>Clue:</strong> He tidies up the bed and leaves (8)</summary>
         <p>
           <strong>Answer:</strong> Gardener<br>
-          <strong>Explanation:</strong> Just take it literally! A gardener is someone who tidies up the (garden) bed and the (fallen) leaves.
+          <strong>Explanation:</strong> Just take it literally! A gardener is someone who tidies up the (garden) bed and (fallen) leaves.
         </p>
       </details>
     </li>
