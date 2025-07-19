@@ -115,10 +115,19 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
     </li>
     <li>
       <details>
-        <summary><strong>Clue:</strong> Take the wrong way? (5)</summary>
+        <summary><strong>Clue:</strong> Game played by proofreaders in Beijing, we hear (7,8)</summary>
         <p>
-          <strong>Answer:</strong> Steal<br>
-          <strong>Explanation:</strong> Nothing fancy here; stealing is quite literally just taking in the wrong way.
+          <strong>Answer:</strong> Chinese chequers<br>
+          <strong>Explanation:</strong> Proofreaders in Beijing could be described as "Chinese checkers", which sounds like the game "Chinese chequers" (which is the Australian spelling).
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> Frontal lobe said to produce calm? (5,2,4)</summary>
+        <p>
+          <strong>Answer:</strong> Peace of mind<br>
+          <strong>Explanation:</strong> The frontal lobe, being part of the brain, could be described as a "piece of mind". This sounds like "peace of mind", which also means "calm".
         </p>
       </details>
     </li>
@@ -137,6 +146,42 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <p>
           <strong>Answer:</strong> Build up<br>
           <strong>Explanation:</strong> To "build up" describes how to increase the height of a building, and also means "anticipation".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> Take the wrong way? (5)</summary>
+        <p>
+          <strong>Answer:</strong> Steal<br>
+          <strong>Explanation:</strong> Nothing fancy here; stealing is quite literally just taking in the wrong way.
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> Glowing coal at end of three months (5)</summary>
+        <p>
+          <strong>Answer:</strong> Ember<br>
+          <strong>Explanation:</strong> "Ember" occurs at the end of three months (September, November, December), and also means "glowing coal".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> They are great at keeping the orchestra in time with little resistance? (14)</summary>
+        <p>
+          <strong>Answer:</strong> Superconductor<br>
+          <strong>Explanation:</strong> A "super conductor" describes someone who is great at keeping an orchestra in time, and "superconductor" also describes a material with little resistance.
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> Organised supporters for cool disco (3,4)</summary>
+        <p>
+          <strong>Answer:</strong> Fan club<br>
+          <strong>Explanation:</strong> A cool disco could be described as a "fan club", which also means "organised supporters".
         </p>
       </details>
     </li>
