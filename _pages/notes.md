@@ -12,7 +12,7 @@ I've written extensive (though still incomplete) notes in preparation for quanti
 ## [Quant Interview Notes](/files/quant_interview_notes.pdf){:target="_blank" rel="noopener noreferrer"}
 
 <div class="progress-container">
-  <div class="progress-bar progress-low" style="width: 40%;">40% complete</div>
+  <div class="progress-bar progress-medium" style="width: 50%;">50% complete</div>
 </div>
 
 Last updated July 2025
