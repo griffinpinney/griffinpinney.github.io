@@ -78,7 +78,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 
   <div><strong>Stats:</strong></div>
   <ul>
-    <li>Current solving streak: <strong>11+ months</strong></li>
+    <li>Current solving streak: <strong>1 year</strong> (as of July 26th, 2025)</li>
     <li>Fastest time: <strong>2 minutes and 12 seconds (rank 5/1154)</strong></li>
   </ul>
   
@@ -160,6 +160,15 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
     </li>
     <li>
       <details>
+        <summary><strong>Clue:</strong> Honestly seen behind yours (5)</summary>
+        <p>
+          <strong>Answer:</strong> Truly<br>
+          <strong>Explanation:</strong> "Truly" is often seen behind "yours" (as in "yours truly"), and also means "honestly".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
         <summary><strong>Clue:</strong> Glowing coal at end of three months (5)</summary>
         <p>
           <strong>Answer:</strong> Ember<br>
@@ -222,57 +231,6 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
       </details>
     </li>
   </ul>
-  
-  <!-- <hr> -->
-
-  <!-- <div><strong>Honourable mentions:</strong> these clues aren't particularly clever, but I'm recording them here since they made me laugh.</div>
-  <ul>
-    <li>
-      <details>
-        <summary><strong>Clue:</strong> Book excerpt has page about ass (7)</summary>
-        <p>
-          <strong>Answer:</strong> Passage<br>
-          <strong>Explanation:</strong> If you put "page" about "ass", you get "passage", which also means a book excerpt. Sounds like a great book, too!
-        </p>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary><strong>Clue:</strong> Add ass to ET's belongings (6)</summary>
-        <p>
-          <strong>Answer:</strong> Assets<br>
-          <strong>Explanation:</strong> If you add "ass" to "ET's", you get "assets", which also means "belongings".
-        </p>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary><strong>Clue:</strong> Divides into three to try sex, I hear (7)</summary>
-        <p>
-          <strong>Answer:</strong> Trisects<br>
-          <strong>Explanation:</strong> "I hear" is a clue to say "try sex" aloud. This sounds like "trisects", which also means "divides into three".
-        </p>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary><strong>Clue:</strong> Talked keenly about the nudes! (8)</summary>
-        <p>
-          <strong>Answer:</strong> Enthused<br>
-          <strong>Explanation:</strong> "about" is a clue to anagram some letters. If you anagram the letters of "the nudes" you get "enthused", which also means "talked keenly about".
-        </p>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary><strong>Clue:</strong> Hates de exams, man (7)</summary>
-        <p>
-          <strong>Answer:</strong> Detests<br>
-          <strong>Explanation:</strong> "tests" is another word for "exams", and putting this next to "de" gives "detests" which also means "hates". This one makes me laugh because the author seemed to go out of their way to make you read it in a Jamaican accent.
-        </p>
-      </details>
-    </li>
-  </ul> -->
 </details>
 
 ---
