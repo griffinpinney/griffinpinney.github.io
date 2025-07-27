@@ -78,7 +78,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 
   <div><strong>Stats:</strong></div>
   <ul>
-    <li>Current solving streak: <strong>1 year</strong> (as of July 26th, 2025)</li>
+    <li>Current solving streak: <strong>1 year (as of July 26th, 2025)</strong></li>
     <li>Fastest time: <strong>2 minutes and 12 seconds (rank 5/1154)</strong></li>
   </ul>
   
@@ -137,6 +137,24 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <p>
           <strong>Answer:</strong> Theme song<br>
           <strong>Explanation:</strong> The tune for egomaniacs would be "the me song". Joining the first two words gives "theme song", which also means "signature tune".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> Long live the metropolis in animation (8)</summary>
+        <p>
+          <strong>Answer:</strong> Vivacity<br>
+          <strong>Explanation:</strong> "Long live the metropolis" could be expressed as "viva city" (borrowing "viva" from Spanish). Putting this together gives "vivacity", which also means "animation".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> Donkey follows hare without tail and finds badger (6)</summary>
+        <p>
+          <strong>Answer:</strong> Harass<br>
+          <strong>Explanation:</strong> "Hare" without its tail would just be "har"; having donkey, or "ass" follow this gives "harass", which also means "badger".
         </p>
       </details>
     </li>
