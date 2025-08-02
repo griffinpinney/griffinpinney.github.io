@@ -258,4 +258,4 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 
 ---
 
-While not exactly a puzzle, I also like to challenge my mental arithmetic abilities on <a href="https://arithmetic.zetamac.com/" target="_blank" rel="noopener noreferrer">Zetamac</a>. My personal best is a score of 117 on the default settings.
+While not exactly a puzzle, I also like to challenge my mental arithmetic abilities on <a href="https://arithmetic.zetamac.com/" target="_blank" rel="noopener noreferrer">Zetamac</a>. My personal best is a score of 118 on the default settings.
