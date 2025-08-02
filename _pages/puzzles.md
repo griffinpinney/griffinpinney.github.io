@@ -25,6 +25,11 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
   <div><strong>Logs:</strong></div>
   <ul style="list-style: none; padding: 0;">
     <li style="display: flex; align-items: center; gap: 0.5em;">
+      <span style="display: inline-block; width: 150px; border-bottom: 1px dotted #ccc;">August 2025:</span> 🌐
+      <a href="https://www.janestreet.com/puzzles/dogs-playing-poker-index/" target="_blank" rel="noopener noreferrer">Puzzle</a> | 📝
+      <a href="/puzzles/jane_street/2025-08/" target="_blank" rel="noopener noreferrer">Log</a>
+    </li>
+    <li style="display: flex; align-items: center; gap: 0.5em;">
       <span style="display: inline-block; width: 150px; border-bottom: 1px dotted #ccc;">July 2025:</span> 🌐
       <a href="https://www.janestreet.com/puzzles/robot-road-trip-index/" target="_blank" rel="noopener noreferrer">Puzzle</a> | 📝
       <a href="/puzzles/jane_street/2025-07/" target="_blank" rel="noopener noreferrer">Log</a>
