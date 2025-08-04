@@ -123,7 +123,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <summary><strong>Clue:</strong> Apparently, Toohey's in empty encounter (4)</summary>
         <p>
           <strong>Answer:</strong> Meet<br>
-          <strong>Explanation:</strong> "Toohey's" (an Australian bear) sounds like "two e's"; empty sounds like "m-t". So, "Toohey's in empty" describes "two e's in m-t", or "meet", which also means "encounter".
+          <strong>Explanation:</strong> "Toohey's" (an Australian bear) sounds like "two e's"; "empty" sounds like "m-t". So, "Toohey's in empty" describes "two e's in m-t", or "meet", which also means "encounter".
         </p>
       </details>
     </li>
@@ -169,6 +169,15 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <p>
           <strong>Answer:</strong> Harass<br>
           <strong>Explanation:</strong> "Hare" without its tail would just be "har"; having donkey, or "ass" follow this gives "harass", which also means "badger".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> In the past, you fellows would be by the Red Sea (5)</summary>
+        <p>
+          <strong>Answer:</strong> Yemen<br>
+          <strong>Explanation:</strong> In the past, "you fellows" could be expressed as "ye men". Putting this together gives "Yemen", which is a country by the Red Sea.
         </p>
       </details>
     </li>
