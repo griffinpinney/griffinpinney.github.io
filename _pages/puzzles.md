@@ -120,6 +120,15 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
     </li>
     <li>
       <details>
+        <summary><strong>Clue:</strong> Apparently, Toohey's in empty encounter (4)</summary>
+        <p>
+          <strong>Answer:</strong> Meet<br>
+          <strong>Explanation:</strong> "Toohey's" (an Australian bear) sounds like "two e's"; empty sounds like "m-t". So, "Toohey's in empty" describes "two e's in m-t", or "meet", which also means "encounter".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
         <summary><strong>Clue:</strong> Game played by proofreaders in Beijing, we hear (7,8)</summary>
         <p>
           <strong>Answer:</strong> Chinese chequers<br>
@@ -160,6 +169,15 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <p>
           <strong>Answer:</strong> Harass<br>
           <strong>Explanation:</strong> "Hare" without its tail would just be "har"; having donkey, or "ass" follow this gives "harass", which also means "badger".
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> A close shave with a grounding (1,4,5)</summary>
+        <p>
+          <strong>Answer:</strong> A near thing<br>
+          <strong>Explanation:</strong> "A grounding" could be interpreted as "an earthing". Inserting a space, this becomes "a near thing", which also means "a close shave".
         </p>
       </details>
     </li>
@@ -219,6 +237,15 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
     </li>
     <li>
       <details>
+        <summary><strong>Clue:</strong> Integers for anaesthetists (7)</summary>
+        <p>
+          <strong>Answer:</strong> Numbers<br>
+          <strong>Explanation:</strong> "Numbers" can describe both integers and anaeshetists (people who make others numb, i.e. "numb-ers").
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
         <summary><strong>Clue:</strong> Type of bars frequented by gymnasts (10)</summary>
         <p>
           <strong>Answer:</strong> Horizontal<br>
@@ -241,6 +268,15 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <p>
           <strong>Answer:</strong> Gardener<br>
           <strong>Explanation:</strong> Just take it literally! A gardener is someone who tidies up the (garden) bed and (fallen) leaves.
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary><strong>Clue:</strong> Relaxed dial (4,4)</summary>
+        <p>
+          <strong>Answer:</strong> Laid back<br>
+          <strong>Explanation:</strong> "Dial" is just "laid" spelled backwards, and could therefore be described as "laid back", which also means "relaxed".
         </p>
       </details>
     </li>
