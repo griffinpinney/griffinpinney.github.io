@@ -123,7 +123,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <summary><strong>Clue:</strong> Apparently, Toohey's in empty encounter (4)</summary>
         <p>
           <strong>Answer:</strong> Meet<br>
-          <strong>Explanation:</strong> "Toohey's" (an Australian bear) sounds like "two e's"; "empty" sounds like "m-t". So, "Toohey's in empty" describes "two e's in m-t", or "meet", which also means "encounter".
+          <strong>Explanation:</strong> "Toohey's" (an Australian bear) sounds like "two e's", whereas "empty" sounds like "m-t". So, "Toohey's in empty" describes "two e's in m-t", or "meet", which also means "encounter".
         </p>
       </details>
     </li>
@@ -303,4 +303,4 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 
 ---
 
-While not exactly a puzzle, I also like to challenge my mental arithmetic abilities on <a href="https://arithmetic.zetamac.com/" target="_blank" rel="noopener noreferrer">Zetamac</a>. My personal best is a score of 118 on the default settings.
+While not exactly a puzzle, I also like to challenge my mental arithmetic abilities on <a href="https://arithmetic.zetamac.com/" target="_blank" rel="noopener noreferrer">Zetamac</a>. My personal best is a score of 119 on the default settings.
