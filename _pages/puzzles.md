@@ -75,7 +75,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 
   <div><strong>Starting July 2025</strong>, I’ll begin recording:</div>
   <ul>
-    <li>My solving stats, including current streak and best time</li>
+    <li>My solving stats, including longest streak and best time</li>
     <li>The best clues I encounter, including an explanation of their solutions</li>
   </ul>
 
@@ -83,7 +83,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 
   <div><strong>Stats:</strong></div>
   <ul>
-    <li>Current solving streak: <strong>1 year (as of July 26th, 2025)</strong></li>
+    <li>Longest solving streak: <strong>1 year (July 26th, 2024 - July 26th, 2025).</strong> As of August 2025, I'm no longer maintaining a solving streak.</li>
     <li>Fastest time: <strong>2 minutes and 12 seconds (rank 5/1154)</strong></li>
   </ul>
   
