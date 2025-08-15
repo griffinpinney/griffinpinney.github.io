@@ -123,7 +123,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
         <summary><strong>Clue:</strong> Apparently, Toohey's in empty encounter (4)</summary>
         <p>
           <strong>Answer:</strong> Meet<br>
-          <strong>Explanation:</strong> "Toohey's" (an Australian bear) sounds like "two e's", whereas "empty" sounds like "m-t". So, "Toohey's in empty" describes "two e's in m-t", or "meet", which also means "encounter".
+          <strong>Explanation:</strong> "Toohey's" (an Australian beer) sounds like "two e's", whereas "empty" sounds like "m-t". So, "Toohey's in empty" describes "two e's in m-t", or "meet", which also means "encounter".
         </p>
       </details>
     </li>
