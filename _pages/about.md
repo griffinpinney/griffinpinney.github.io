@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 
-I'm a third year PhD student in applied mathematics at UCLA advised by <a href="https://ernestryu.com/" target="_blank" rel="noopener noreferrer">Prof. Ernest Ryu</a>. My research interests include applications of reinforcement learning to large language models, and empirical deep learning more generally.
+I'm a fourth year PhD student in applied mathematics at UCLA advised by <a href="https://ernestryu.com/" target="_blank" rel="noopener noreferrer">Prof. Ernest Ryu</a>. My research interests include applications of reinforcement learning to large language models, and empirical deep learning more generally.
 
 I have a Master's degree in mathematics from UCLA and a Bachelor's degree in mathematics from the Australian National University,  where I completed my <a href="/files/honours_thesis.pdf" target="_blank" rel="noopener noreferrer">Honours thesis</a> on harmonic analysis under the supervision of <a href="https://maths-people.anu.edu.au/~plyung/" target="_blank" rel="noopener noreferrer">Po-Lam Yung</a>.
 
