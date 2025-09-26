@@ -65,10 +65,6 @@ Other Projects
   * Observed market regimes under which certain strategies are advantageous  
   * Gained experience handling and manipulating financial data
 
-* **Evaluating the utility of ARIMA models for forecasting the market**, Jun. 2025  
-  * Empirically demonstrated the impossibility of forecasting the market via simple ARIMA models
-  * Observed improvement in performance by using historical returns data, as a consequence of the improved stationarity of returns compared to prices
-
 Selected Awards
 ======
 * **Liggett Teaching Award (UCLA)**, Jun. 2024  
