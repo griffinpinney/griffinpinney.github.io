@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 ---
 
-My research interests have varied considerably over time. As an undergraduate student in pure mathematics, my first research experience was in harmonic analysis, and I came to UCLA with the intention of either continuing this research or pursuing research in the adjacent field of PDE. Since then I've moved into applied math, with my first taste of research in this area being in the realm of scientific machine learning. Eventually, I came to find an interest in reinforcement learning and large language models, which is where my interests will likely lie for the remainder of my PhD.
+My research interests have varied considerably over time. As an undergraduate student in pure mathematics, my first research experience was in harmonic analysis, and I came to UCLA with the intention of either continuing this research or pursuing research in the adjacent field of PDE. Since then I've moved into applied math, with my first taste of research in this area being in the realm of scientific machine learning. Eventually, I came to find an interest in mathematical and statistical finance, which is where my interests will likely lie for the remainder of my PhD.
 
 ---
 
@@ -24,13 +24,12 @@ My research interests have varied considerably over time. As an undergraduate st
 
 <!-- ## Journal Papers -->
 
----
-
+<!-- ---
 
 ## Ongoing Works
 
-- ### Executing algorithms in CoT via hybridized SFT+RL training
+- ### Title
   
-  **Griffin Pinney**, Hyunsik Chae, and Ernest Ryu.
+  **Griffin Pinney**, other authors.
 
----
+--- -->

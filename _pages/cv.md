@@ -13,8 +13,8 @@ Education
 ======
 * **Ph.D. in Mathematics**, UCLA, Sep. 2022 – Present  
   * Expected June 2027  
-  * Advisor: <a href="https://ernestryu.com/" target="_blank" rel="noopener noreferrer">Prof. Ernest Ryu</a>  
-  * Research areas: reinforcement learning, large language models
+  * Advisor: <a href="https://www.math.ucla.edu/~mihai/" target="_blank" rel="noopener noreferrer">Prof. Mihai Cucuringu</a>  
+  * Research areas: mathematical and statistical finance
 
 * **M.A. in Mathematics**, UCLA, Sep. 2022 – Jun. 2024  
   * GPA: 4.00/4.00
@@ -26,6 +26,8 @@ Education
   * Completed Honours under the supervision of <a href="https://maths-people.anu.edu.au/~plyung/" target="_blank" rel="noopener noreferrer">Dr. Po-Lam Yung</a>  
   * Thesis: *Fourier Restriction and Decoupling*  
   * First Class Honours
+
+---
 
 Publications and Preprints
 ======
@@ -39,13 +41,14 @@ Publications and Preprints
   <strong>Griffin Pinney</strong>.  
   <em>arXiv:2112.04111,</em> 2021.
 
-<!-- Current Projects
-======
-* *Executing algorithms in CoT via hybridized SFT+RL training*  
-  (PhD project; to be completed Oct. 2025)
+---
 
-* *Comparing quantitative trading strategies via rigorous backtesting and paper trading*  
-  (Ongoing personal project; to be completed Aug. 2025) -->
+Industry Experience
+======
+* **JPMorgan Chase Quantitative Finance Summer Analyst & Associate Program**, NYC, Jun. 2026 – Aug. 2026  
+  * Interned with the Model Risk Governance and Review (MRGR) team
+
+---
 
 Talks and Presentations
 ======
@@ -58,12 +61,7 @@ Talks and Presentations
   * UCLA Participating Analysis Seminar
   * Presented Honours work on Fourier restriction and decoupling
 
-Other Projects
-======
-* **Comparing trading strategies via rigorous backtesting**, Jul. 2025  
-  * Compared basic trading strategies such as buy and hold, turn-of-the-month, SMA crossover, and bollinger bands via the Backtrader backtesting framework
-  * Observed market regimes under which certain strategies are advantageous  
-  * Gained experience handling and manipulating financial data
+---
 
 Selected Awards
 ======
@@ -92,6 +90,8 @@ Selected Awards
 * **Workshop Demonstrator (Teaching Assistant)**, Feb. 2021 – Jun. 2022  
   * Mathematical Sciences Institute, ANU  
   * Courses: MATH1115, MATH1116, MATH1014, MATH2320, MATH3320 -->
+
+---
 
 Skills
 ======
