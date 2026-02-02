@@ -15,6 +15,11 @@ I've held teaching assistant positions (or equivalent) continuously since 2021, 
 
 ## UCLA
 
+- ### Python with Applications I  
+  *In-depth introduction to the Python programming language for students who have already taken a beginning programming course in a strongly typed, compiled language (C++, C, or Fortran). Core Python language constructs, applications, text processing, data visualization, interaction with spreadsheets and SQL databases, and creation of graphical user interfaces.*
+
+  Winter 2026
+
 - ### Introduction to Programming  
   *Basic principles of programming, using C++; algorithmic, procedural problem solving; program design and development; basic data types, control structures and functions; functional arrays and pointers; introduction to classes for programmer-defined data types.*
 
