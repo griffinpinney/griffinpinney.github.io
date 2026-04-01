@@ -12,7 +12,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 <details>
   <summary><strong>🧩 Jane Street Monthly Puzzle</strong></summary>
   <p>
-    I began solving the Jane Street monthly puzzles in February 2024 with my good friend <a href="https://www.linkedin.com/in/frederick-vu-79a970297" target="_blank" rel="noopener noreferrer">Fred Vu</a>, and haven’t missed a month since. These days, I occasionally collaborate with Fred Vu or <a href="https://www.kelly-su.com/" target="_blank" rel="noopener noreferrer">Kelly Su</a>, but I usually solve the puzzles solo.
+    I began solving the Jane Street monthly puzzles in February 2024 with my good friend <a href="https://www.linkedin.com/in/frederick-vu-79a970297" target="_blank" rel="noopener noreferrer">Fred Vu</a>, and I've hardly missed a month since. These days, I occasionally collaborate with Fred Vu or <a href="https://www.kelly-su.com/" target="_blank" rel="noopener noreferrer">Kelly Su</a>, but I usually solve the puzzles solo.
   </p>
   
   <div><strong>Starting July 2025</strong>, I’ll begin recording:</div>
@@ -24,7 +24,12 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 
   <div><strong>Logs:</strong></div>
   <ul style="list-style: none; padding: 0;">
-      <li style="display: flex; align-items: center; gap: 0.5em;">
+    <li style="display: flex; align-items: center; gap: 0.5em;">
+      <span style="display: inline-block; width: 150px; border-bottom: 1px dotted #ccc;">March 2026:</span> 🌐
+      <a href="https://www.janestreet.com/puzzles/planetary-parade-index/" target="_blank" rel="noopener noreferrer">Puzzle</a> | 📝
+      <a href="/puzzles/jane_street/2026-03/" target="_blank" rel="noopener noreferrer">Log</a>
+    </li>
+    <li style="display: flex; align-items: center; gap: 0.5em;">
       <span style="display: inline-block; width: 150px; border-bottom: 1px dotted #ccc;">February 2026:</span> 🌐
       <a href="https://www.janestreet.com/puzzles/subtiles-2-index/" target="_blank" rel="noopener noreferrer">Puzzle</a> | 📝
       <a href="/puzzles/jane_street/2026-02/" target="_blank" rel="noopener noreferrer">Log</a>
@@ -77,7 +82,7 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
 <details>
   <summary><strong>🧮 IBM Ponder This</strong></summary>
   <p>
-    I began solving the IBM "Ponder This" monthly puzzles in August 2024, but I solve them less religiously than the Jane Street puzzles. Each of these puzzles also comes with a bonus problem, which is usually a slightly modified or scaled up version of the original. Strangely, the bonus problem seems to range in difficulty from significantly harder than to much easier than the original problem, and I don't solve it every time I solve the base puzzle.
+    I began solving the IBM "Ponder This" monthly puzzles in August 2024, but I solve them less religiously than the Jane Street puzzles. Each of these puzzles also comes with a bonus problem, which is usually a slightly modified or scaled up version of the original. Strangely, the bonus problem seems to range in difficulty from significantly harder to much easier than the original problem, and I don't solve it every time I solve the base puzzle.
   </p>
 
   <div><strong>Starting July 2025</strong>, I’ll begin recording:</div>
