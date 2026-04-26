@@ -10,11 +10,11 @@ author_profile: true
 In Spring 2026, I'm teaching *Python with Applications I* at UCLA as the professor. I'm excited for this opportunity and I look forward to working with the students in my first ever class!
 
 ---
-## As the TA:
+## As a TA:
 
 I've held teaching assistant positions (or equivalent) more or less continuously since 2021, between both the Australian National University and UCLA. I take joy in teaching, and I like to establish a connection with my students whenever possible. I consider it a great privilege to be part of my students' university experience, and I take this responsibility seriously.
 
- At the end of each academic term, I encourage my students to say hi if they see me on campus, and I usually joke that I owe them $5 if I don't remember their name. It's been over four years, and I still haven't had to pay any of my former students! Chances are that if you had me as a TA, I remember you and care how you're doing, so feel free to reach out at any time for any reason. Hearing from or seeing my former students always makes my day.
+ At the end of each academic term, I encourage my students to say hi if they see me on campus, and I usually joke that I owe them $5 if I don't remember their name. Chances are that if you had me as a TA, I remember you and care how you're doing, so feel free to reach out at any time for any reason. Hearing from or seeing my former students always makes my day.
 
  Below is a summary of all the classes I've TA'd for and their content.
 
