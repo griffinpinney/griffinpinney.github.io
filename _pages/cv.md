@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Mathematics**, UCLA, Sep. 2022 – Present  
-  * Expected June 2027  
+  * Expected June 2028  
   * Advisor: <a href="https://www.math.ucla.edu/~mihai/" target="_blank" rel="noopener noreferrer">Prof. Mihai Cucuringu</a>  
   * Research areas: mathematical and statistical finance
 
