@@ -23,7 +23,12 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
   </ul>
 
   <div><strong>Logs:</strong></div>
-  <ul style="list-style: none; padding: 0;">
+    <ul style="list-style: none; padding: 0;">
+      <li style="display: flex; align-items: center; gap: 0.5em;">
+      <span style="display: inline-block; width: 150px; border-bottom: 1px dotted #ccc;">July 2026:</span> 🌐
+      <a href="https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/" target="_blank" rel="noopener noreferrer">Puzzle</a> | 📝
+      <a href="/puzzles/jane_street/2026-07/" target="_blank" rel="noopener noreferrer">Log</a>
+    </li>
     <li style="display: flex; align-items: center; gap: 0.5em;">
       <span style="display: inline-block; width: 150px; border-bottom: 1px dotted #ccc;">June 2026:</span> 🌐
       <a href="https://www.janestreet.com/puzzles/regional-artwork-index/" target="_blank" rel="noopener noreferrer">Puzzle</a> | 📝
