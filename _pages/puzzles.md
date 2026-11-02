@@ -25,6 +25,11 @@ As an avid solver of puzzles of all kinds, I thought I'd create a place to detai
   <div><strong>Logs:</strong></div>
     <ul style="list-style: none; padding: 0;">
       <li style="display: flex; align-items: center; gap: 0.5em;">
+      <span style="display: inline-block; width: 150px; border-bottom: 1px dotted #ccc;">November 2026:</span> 🌐
+      <a href="https://www.janestreet.com/puzzles/pressure-points-index/" target="_blank" rel="noopener noreferrer">Puzzle</a> | 📝
+      <a href="/puzzles/jane_street/2026-11/" target="_blank" rel="noopener noreferrer">Log</a>
+    </li>
+      <li style="display: flex; align-items: center; gap: 0.5em;">
       <span style="display: inline-block; width: 150px; border-bottom: 1px dotted #ccc;">September 2026:</span> 🌐
       <a href="https://www.janestreet.com/puzzles/hint-singles-index/" target="_blank" rel="noopener noreferrer">Puzzle</a> | 📝
       <a href="/puzzles/jane_street/2026-09/" target="_blank" rel="noopener noreferrer">Log</a>
